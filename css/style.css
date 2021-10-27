@@ -36,12 +36,13 @@ body {
     border-radius: 25px 25px 0 0;
 }
 
-.container h2, h4, .change {
+.container h2, h4 {
     font-weight: 900;
 }
 
 .container .change {
     color: hsl(245, 75%, 52%);
+    font-weight: 700;
 }
 
 .container h2, h4 {
