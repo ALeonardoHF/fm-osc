@@ -43,6 +43,7 @@ body {
 .container .change {
     color: hsl(245, 75%, 52%);
     font-weight: 700;
+    font-size: 14px;
 }
 
 .container h2, h4 {
